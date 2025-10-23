@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(to right, #ffb347, #ffcc33);
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  color: #800000;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+.btn-danger {
+  border-radius: 50px;
+  padding: 10px 40px;
+  font-weight: bold;
+}
+
+.alert {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
